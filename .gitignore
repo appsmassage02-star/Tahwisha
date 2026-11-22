@@ -1,0 +1,43 @@
+# Gradle & Build outputs
+.gradle/
+.kotlin/
+build/
+*/build/
+app/build/
+.build-outputs/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Local environment & Secrets
+local.properties
+.env
+
+# Keystores & Signing credentials
+*.jks
+*.keystore
+debug.keystore
+my-upload-key.jks
+
+# Built packages
+*.apk
+*.ap_
+*.aab
+
+# IDE & AIDE temporary files
+*.iml
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.aide/
+bin/
+gen/
+
+# OS & Editor temporary files
+.DS_Store
+Thumbs.db
+*.swp
+*~

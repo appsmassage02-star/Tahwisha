@@ -1,0 +1,6 @@
+{
+  "name": "جمعيتي",
+  "description": "أدر جمعياتك بكل سهولة - تطبيق أندرويد متكامل لإدارة الجمعيات الشخصية أوفلاين بالكامل باللغة العربية مع وضع ليلي وتقارير وأرشيف ونسخ احتياطي وإشعارات مجدولة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

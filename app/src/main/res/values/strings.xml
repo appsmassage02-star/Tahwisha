@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">جمعيتي</string>
+    <string name="app_tagline">أدر جمعياتك بكل سهولة</string>
+    <string name="app_subtitle">إدارة الجمعيات الشخصية أوفلاين</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_reports">التقارير</string>
+    <string name="nav_archive">الأرشيف</string>
+    <string name="nav_settings">الإعدادات</string>
+    <string name="back_cd">رجوع</string>
+
+    <!-- Main Screen -->
+    <string name="summary_active_count">الجمعيات النشطة</string>
+    <string name="summary_total_paid">إجمالي المدفوع</string>
+    <string name="summary_total_remaining">إجمالي المتبقي</string>
+    <string name="insight_7days_title">توقعات الـ 7 أيام القادمة</string>
+    <string name="insight_7days_due">أقساط مطلوبة / متأخرة</string>
+    <string name="insight_7days_payout">قبض متوقع</string>
+    <string name="empty_gam3yat_title">لا توجد جمعيات نشطة حالياً</string>
+    <string name="empty_gam3yat_subtitle">اضغط على زر (+) لإضافة أول جمعية ومتابعة أقساطها ومواعيد القبض</string>
+    <string name="add_gam3ya_cd">إضافة جمعية جديدة</string>
+
+    <!-- Add Gam3ya Dialog -->
+    <string name="add_gam3ya_title">إضافة جمعية جديدة</string>
+    <string name="label_gam3ya_name">اسم الجمعية</string>
+    <string name="hint_gam3ya_name">مثال: جمعية محمد</string>
+    <string name="label_monthly_amount">قيمة القسط الشهري</string>
+    <string name="hint_monthly_amount">مثال: 1000</string>
+    <string name="label_total_months">عدد الأقساط (الشهور)</string>
+    <string name="hint_total_months">مثال: 5</string>
+    <string name="label_payout_month">ميعاد القبض (رقم القسط)</string>
+    <string name="hint_payout_month">مثال: 3</string>
+    <string name="label_start_date">تاريخ بداية الجمعية</string>
+    <string name="btn_pick_date">اختر التاريخ من التقويم</string>
+    <string name="btn_save">حفظ</string>
+    <string name="btn_cancel">إلغاء</string>
+
+    <!-- Details Screen -->
+    <string name="details_title">تفاصيل الجمعية</string>
+    <string name="archive_details_title">تفاصيل الجمعية المؤرشفة</string>
+    <string name="label_total">الإجمالي</string>
+    <string name="label_paid">المدفوع</string>
+    <string name="label_remaining">المتبقي</string>
+    <string name="label_next_due">الاستحقاق القادم</string>
+    <string name="label_installment_value">قيمة القسط</string>
+    <string name="label_archived_at">تاريخ الأرشفة</string>
+    <string name="btn_undo_payment">تراجع عن آخر سداد</string>
+    <string name="btn_delete_gam3ya">حذف الجمعية نهائياً</string>
+    <string name="installments_section_title">جدول الأقساط</string>
+
+    <!-- Installment Statuses -->
+    <string name="status_paid">مسدد</string>
+    <string name="status_overdue">متأخر</string>
+    <string name="status_due">مستحق</string>
+    <string name="status_upcoming">قادم</string>
+    <string name="badge_payout_month">ميعاد القبض</string>
+
+    <!-- Reports Screen -->
+    <string name="reports_title">التقارير وسجل التدقيق</string>
+    <string name="reports_total_operations">العمليات المطابقة</string>
+    <string name="reports_total_amount">إجمالي المدفوع (حسب الفلتر)</string>
+    <string name="filter_gam3ya_label">الجمعية</string>
+    <string name="filter_month_label">الشهر / السنة</string>
+    <string name="filter_all_gam3yat">كل الجمعيات</string>
+    <string name="filter_all_months">كل الشهور</string>
+    <string name="audit_pay">سداد قسط</string>
+    <string name="audit_undo">تراجع عن سداد</string>
+    <string name="audit_archive">أرشفة جمعية</string>
+    <string name="empty_reports_title">لا توجد عمليات مطابقة</string>
+    <string name="empty_reports_subtitle">سيظهر هنا سجل التدقيق الكامل لعمليات السداد والتراجع والأرشفة</string>
+
+    <!-- Archive Screen -->
+    <string name="archive_title">أرشيف الجمعيات</string>
+    <string name="empty_archive_title">الأرشيف فارغ</string>
+    <string name="empty_archive_subtitle">تنتقل الجمعيات تلقائياً إلى هنا عند اكتمال سداد جميع أقساطها</string>
+
+    <!-- Settings, Theme, Backup & AppLock -->
+    <string name="settings_title">الإعدادات والنسخ الاحتياطي</string>
+    <string name="theme_section_title">مظهر التطبيق</string>
+    <string name="theme_desc">التبديل بين الوضع النهاري والوضع الليلي المريح للعين.</string>
+    <string name="theme_mode_light">الوضع النهاري</string>
+    <string name="theme_mode_dark">الوضع الليلي</string>
+    <string name="btn_switch_to_dark">التبديل إلى الوضع الليلي</string>
+    <string name="btn_switch_to_light">التبديل إلى الوضع النهاري</string>
+
+    <string name="about_title">حول التطبيق</string>
+    <string name="about_description">تطبيق جمعيتي هو مساعد شخصي لإدارة الجمعيات المالية والأقساط أوفلاين بالكامل دون الحاجة للاتصال بالإنترنت، مع حفظ آمن للبيانات وإشعارات مجدولة لمواعيد السداد والقبض.</string>
+    <string name="version_label">رقم الإصدار</string>
+    <string name="backup_section_title">النسخ الاحتياطي متعدد النسخ</string>
+    <string name="backup_path_note">يتم حفظ أحدث نسخة تلقائياً في:\nDocuments/Gam3yaBackup/gam3ya_latest.json\nمع إنشاء نسخة مؤرخة عند كل نسخ يدوي دون حذفها عند إلغاء التثبيت.</string>
+    <string name="btn_backup_now">نسخ احتياطي الآن</string>
+    <string name="btn_restore_backup">استعادة من ملف خارجي</string>
+    <string name="available_backups_title">النسخ الاحتياطية المتوفرة</string>
+    <string name="no_backups_found">لا توجد نسخ احتياطية محفوظة في المجلد حالياً</string>
+
+    <string name="applock_title">حماية الخصوصية (رمز PIN)</string>
+    <string name="applock_desc">قفل التطبيق برمز مكون من 4 أرقام عند الفتح أو العودة من الخلفية.</string>
+    <string name="applock_status_enabled">الحالة: مفعّل</string>
+    <string name="applock_status_disabled">الحالة: معطّل</string>
+    <string name="btn_enable_pin">تفعيل رمز القفل</string>
+    <string name="btn_disable_pin">تعطيل رمز القفل</string>
+    <string name="btn_change_pin">تغيير رمز PIN</string>
+    <string name="pin_lock_title">أدخل رمز PIN لفتح جمعيتي</string>
+    <string name="pin_lock_subtitle">الرمز المكون من 4 أرقام</string>
+
+    <!-- Notifications -->
+    <string name="notif_channel_name">تنبيهات الأقساط والقبض</string>
+    <string name="notif_channel_desc">إشعارات يومية للتذكير بالأقساط المتأخرة ومواعيد القبض</string>
+    <string name="notif_action_open">عرض التفاصيل</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="colorBgScreen" format="color" />
+    <attr name="colorBgCard" format="color" />
+    <attr name="colorBgBottomNav" format="color" />
+    <attr name="colorBgInput" format="color" />
+    <attr name="colorBorderSubtle" format="color" />
+    <attr name="colorDividerLine" format="color" />
+    <attr name="colorTextPrimary" format="color" />
+    <attr name="colorTextSecondary" format="color" />
+
+    <attr name="colorStatusPaidBg" format="color" />
+    <attr name="colorStatusPaidText" format="color" />
+    <attr name="colorStatusOverdueBg" format="color" />
+    <attr name="colorStatusOverdueText" format="color" />
+    <attr name="colorStatusDueBg" format="color" />
+    <attr name="colorStatusDueText" format="color" />
+    <attr name="colorStatusUpcomingBg" format="color" />
+    <attr name="colorStatusUpcomingText" format="color" />
+    <attr name="colorStatusPayoutBg" format="color" />
+    <attr name="colorStatusPayoutText" format="color" />
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Tahwisha.Light" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/primary_emerald</item>
+        <item name="android:colorPrimaryDark">@color/primary_emerald_dark</item>
+        <item name="android:colorAccent">@color/accent_gold</item>
+        <item name="android:windowBackground">@color/bg_screen</item>
+        <item name="android:statusBarColor">@color/primary_emerald_dark</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+
+        <item name="colorBgScreen">#F5F7F4</item>
+        <item name="colorBgCard">#FFFFFF</item>
+        <item name="colorBgBottomNav">#FFFFFF</item>
+        <item name="colorBgInput">#F8FAF9</item>
+        <item name="colorBorderSubtle">#DFE7E2</item>
+        <item name="colorDividerLine">#EAEFEA</item>
+        <item name="colorTextPrimary">#15221B</item>
+        <item name="colorTextSecondary">#5B6B62</item>
+
+        <item name="colorStatusPaidBg">#E6F4EE</item>
+        <item name="colorStatusPaidText">#0B7052</item>
+        <item name="colorStatusOverdueBg">#FEE2E2</item>
+        <item name="colorStatusOverdueText">#B91C1C</item>
+        <item name="colorStatusDueBg">#FEF3C7</item>
+        <item name="colorStatusDueText">#B45309</item>
+        <item name="colorStatusUpcomingBg">#F1F5F9</item>
+        <item name="colorStatusUpcomingText">#475569</item>
+        <item name="colorStatusPayoutBg">#FDE68A</item>
+        <item name="colorStatusPayoutText">#92400E</item>
+    </style>
+
+    <style name="Theme.Tahwisha.Dark" parent="android:Theme.Material.NoActionBar">
+        <item name="android:colorPrimary">#10966E</item>
+        <item name="android:colorPrimaryDark">#07241B</item>
+        <item name="android:colorAccent">#F3C65F</item>
+        <item name="android:windowBackground">#0E1512</item>
+        <item name="android:statusBarColor">#07241B</item>
+        <item name="android:navigationBarColor">#15201B</item>
+        <item name="android:textColorPrimary">#ECF2EE</item>
+        <item name="android:textColorSecondary">#9EB1A6</item>
+
+        <item name="colorBgScreen">#0E1512</item>
+        <item name="colorBgCard">#17221D</item>
+        <item name="colorBgBottomNav">#15201B</item>
+        <item name="colorBgInput">#1F2D27</item>
+        <item name="colorBorderSubtle">#283A32</item>
+        <item name="colorDividerLine">#24342C</item>
+        <item name="colorTextPrimary">#ECF2EE</item>
+        <item name="colorTextSecondary">#9EB1A6</item>
+
+        <item name="colorStatusPaidBg">#12382B</item>
+        <item name="colorStatusPaidText">#6EE7B7</item>
+        <item name="colorStatusOverdueBg">#3B181A</item>
+        <item name="colorStatusOverdueText">#FCA5A5</item>
+        <item name="colorStatusDueBg">#3B2B11</item>
+        <item name="colorStatusDueText">#FCD34D</item>
+        <item name="colorStatusUpcomingBg">#222F2A</item>
+        <item name="colorStatusUpcomingText">#B6C6BE</item>
+        <item name="colorStatusPayoutBg">#3D2E10</item>
+        <item name="colorStatusPayoutText">#FDE68A</item>
+    </style>
+
+    <style name="Theme.MyApplication" parent="Theme.Tahwisha.Light" />
+</resources>
